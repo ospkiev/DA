@@ -1,1 +1,2 @@
-# DA
+# Hey! My name is Pavlo, I'm data analytics. In this repository you will find various pet projects I have developed.
+🔗Google Sheets pet-project: https://docs.google.com/spreadsheets/d/1P1ffBuQb152qO59XplXoWghsAWg1b9ITw_5VK1Wh1_s/edit?gid=584762538#gid=584762538 - In this pet-project, I used the basic functionality of Google Sheets- filters, aggregate functions, vlookup, index, match, pivot tables, and created a charts based on the data.
